@@ -8,7 +8,7 @@ body {
 .tum{
 	background-color:transparent;
 	border:transparent;
-	margin: 30px 0px;
+	
 }
 .tulisan-caption{
 	text-align:center;
@@ -20,11 +20,15 @@ body {
 	font-family: Constantia;
 	font-weight: bold;
 	letter-spacing: 3px;
+	
+	height : 60px;
 }
 .cuplikan{
 	color:#FFF8DC;
 	font-family: "Lucida Calligraphy";
 	letter-spacing: 1px;
+	
+	height : 100px;
 }
 .bg-jumbotron{
 	background-image: url("http://eskipaper.com/images/headlights-wallpaper-1.jpg");
@@ -50,16 +54,6 @@ body {
 .cek{
 	text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 @import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css);
@@ -495,12 +489,8 @@ a.animated-button.thar-four:before {
 			width: 30px;
 		}
 
-
-
-
-
 		.cross:after{
-			content: "X";
+			content: "oyeng";
 			left: 24px;
 			top: 15px;
 		}
@@ -525,3 +515,5 @@ a.animated-button.thar-four:before {
 			color:#dbd2d2;
 			text-shadow: 0px -1px 1px #bdb5b4, 0px 1px 1px white;
 		}
+		
+		
