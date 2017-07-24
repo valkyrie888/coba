@@ -68,6 +68,15 @@ body {
 	color : black;
 }
 
+.ukuran-img{
+	width:100%;
+	
+   
+}
+
+
+
+
 /* Global Button Styles */
 
 a.animated-button:link, a.animated-button:visited {
