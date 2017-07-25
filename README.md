@@ -15,3 +15,8 @@ emg git diff mah buat cek file yg di local lu .. bukan cek sama file gw
 
 Misal file lu dah sinkron sama file master
 terus lu ubah ubah isi file , nah baru git diff bisa bekerja
+
+
+
+SOK GW coba wkwwkkw
+nwjrekakjsdfvnzmbdgfkjabs
