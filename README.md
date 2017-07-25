@@ -1,16 +1,13 @@
  UUUUUUUUUUUUUU
 
-WHEHEHEHEEH
-ddddddddddddddddddddddddddddddddd
-
-TERKAHIIIIRRR
+WHE
 
 
 cekckkekce
 
 
 
-
+asdf
 
 
 
@@ -28,21 +25,7 @@ LASH WKKWKWKW
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+asdg
 
 
 
@@ -59,4 +42,4 @@ PUSHSINGG
 
 
 
-
+asdf
