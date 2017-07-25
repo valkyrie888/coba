@@ -1,9 +1,9 @@
-Oyeng AAAAAAAAAAAAAAAAAAAAAAAAuu UUUUUUUUUUUUUU
+ UUUUUUUUUUUUUU
 
 WHEHEHEHEEH
 ddddddddddddddddddddddddddddddddd
 
-
+TERKAHIIIIRRR
 
 
 cekckkekce
@@ -16,6 +16,7 @@ cekckkekce
 
 
 
+LASH WKKWKWKW
 
 
 
