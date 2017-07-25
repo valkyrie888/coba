@@ -3,16 +3,12 @@ SSSSSSSSS GEUSS TAH
 LALALALALAAALA 
 APAKAH YG TERJADI
 
-PENGEN ANEH
-1
-2
-3
-4
-5
-6
-7
-7
-7
-6
-5
-4
+ 
+ 
+ 
+ aneh di gw ga di kasih tw perubahannya
+ 
+ gw udah git diff tapi ga ada perubahan katanya
+ ccd juga wkkwkw
+
+emg git diff mah buat cek file yg di local lu .. bukan cek sama file gw
