@@ -20,3 +20,5 @@ terus lu ubah ubah isi file , nah baru git diff bisa bekerja
 
 SOK GW coba wkwwkkw
 nwjrekakjsdfvnzmbdgfkjabs
+
+GEUS UBAH 
