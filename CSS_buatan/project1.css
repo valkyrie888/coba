@@ -25,20 +25,17 @@ body {
 }
 
 .judul-tum{
-	height : 80px;
+	height : 60px;
 	color:#FFD700;
 	font-family: Constantia;
 	font-weight: bold;
 	letter-spacing: 3px;
-	
 }
 .cuplikan{
-	
 	color:#FFF8DC;
 	font-family: "Lucida Calligraphy";
 	letter-spacing: 1px;
-	height : auto;
-	min-height : 163px;
+	height : 91px;
 }
 .bg-jumbotron{
 	background-image: url("http://eskipaper.com/images/headlights-wallpaper-1.jpg");
@@ -71,9 +68,6 @@ body {
 .penutup{
 	background-color:gold;
 	color : black;
-}
-.ukuran-img{
-	width:100%;
 }
 
 /* Global Button Styles */
@@ -229,4 +223,13 @@ a.animated-button.thar-three:before {
 		
 	/*--BATAS--*/
 	
+#box1 
+{
+	display : none;
+}
+#box2 
+{
+	display : none;
+}
+
 
