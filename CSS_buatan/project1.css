@@ -25,7 +25,7 @@ body {
 }
 
 .judul-tum{
-	height : 60px;
+	height : 80px;
 	color:#FFD700;
 	font-family: Constantia;
 	font-weight: bold;
@@ -35,7 +35,9 @@ body {
 	color:#FFF8DC;
 	font-family: "Lucida Calligraphy";
 	letter-spacing: 1px;
-	height : 91px;
+	height : auto ;
+	min-height : 163px;
+
 }
 .bg-jumbotron{
 	background-image: url("http://eskipaper.com/images/headlights-wallpaper-1.jpg");
