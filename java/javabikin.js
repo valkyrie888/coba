@@ -6,11 +6,14 @@ function oyeng()
 	document.getElementById("box1").style.display="none";
 	}
 	else {document.getElementById("box1").style.display="block"; }
+	
 }
 function oyeng1()
 {
 	
-	document.getElementById("box1").style.display="none"
+	document.getElementById("box1").style.display="none" ;
+	
+	document.getElementById("box3").style.display="none" ;
 }
 function oyeng2()
 {
@@ -21,7 +24,20 @@ function oyeng2()
 	}
 	else {document.getElementById("box2").style.display="block"; }
 }
+
 function oyeng3()
 {
-	document.getElementById("box2").style.display="none";
+	document.getElementById("box2").style.display="none" ;
+	
+	document.getElementById("box3").style.display="none" ;
+	
+}
+
+function oyeng4()
+{
+	document.getElementById("box1").style.display="none" ;
+	document.getElementById("box2").style.display="none" ;
+	document.getElementById("box3").style.display="block";
+	document.getElementById("box3").scrollIntoView() ;
+	
 }

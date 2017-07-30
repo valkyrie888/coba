@@ -108,6 +108,10 @@ body {
 	display:none;
 }
 
+#box3{
+	display:none;
+}
+
 @keyframes example {
     0%  {opacity:0.0;}
     10% {opacity:0.1;}
