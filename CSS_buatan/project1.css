@@ -91,9 +91,7 @@ body {
 
 #box2{
 	color:white;
-
 	border-bottom: 2px solid gold;
-
 	animation: mymove 5s alternate;
 	margin: 0px 50px;
 	margin-bottom: 50px;
@@ -110,6 +108,19 @@ body {
 
 #box3{
 	display:none;
+	color:white;
+	border-bottom: 2px solid gold;
+	animation: mymove 5s alternate;
+	margin: 0px 50px;
+	margin-bottom: 50px;
+	font-family:Georgia;
+	letter-spacing: 1.5px;
+	font-size:16px;
+	padding:0px 25px;
+	padding-bottom:20px;
+	animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
 }
 
 @keyframes example {
