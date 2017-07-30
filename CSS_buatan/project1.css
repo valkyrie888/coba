@@ -73,17 +73,49 @@ body {
 }
 #box1{
 	color:white;
-	border: 1px solid white;
+	
 	-webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
 	animation: mymove 5s alternate;
 	margin: 0px 50px;
+	margin-bottom: 50px;
 	font-family:Georgia;
 	letter-spacing: 1.5px;
 	font-size:16px;
+	padding:0px 40px;
+	animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+   
 }
+@keyframes example {
+    0%  {opacity:0.0;}
+    10% {opacity:0.1;}
+    20% {opacity:0.2;}
+    30% {opacity:0.3;}
+    40% {opacity:0.4;}
+	50% {opacity:0.5;}
+	60% {opacity:0.6;}
+	70% {opacity:0.7;}
+	80% {opacity:0.8;}
+	90% {opacity:0.9;}
+	100%{opacity:1;}
+}
+
 #box2{
 	color:white;
-	border: 2px solid red;
+	border-bottom: 2px solid white;
+	-webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+	animation: mymove 5s alternate;
+	margin: 0px 50px;
+	margin-bottom: 50px;
+	font-family:Georgia;
+	letter-spacing: 1.5px;
+	font-size:16px;
+	padding:0px 25px;
+	padding-bottom:20px;
+	animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
 }
 
 /* Chrome, Safari, Opera */
