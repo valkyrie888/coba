@@ -249,11 +249,22 @@ a.animated-button.thar-three:before {
 	
 #box1 
 {
-	display : none;
+	
+	animation-duration : 1 s;
+	animation-name : example;
+	animation-iteration-count : 3;
 }
 #box2 
 {
 	display : none;
 }
 
-
+@keyframes example {
+	
+	20% { opacity : 0.2;}
+	40% { opacity : 0.4;}
+	60% { opacity : 0.6;}
+	80% { opacity : 0.8;}
+	100% { opacity : 1;}
+	
+}

@@ -5,7 +5,8 @@ function oyeng()
 }
 function oyeng1()
 {
-	document.getElementById("box1").style.display="none";
+	
+	document.getElementById("box1").style.display="none"
 }
 function oyeng2()
 {
