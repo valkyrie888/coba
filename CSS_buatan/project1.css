@@ -73,20 +73,39 @@ body {
 }
 #box1{
 	color:white;
-	
-	-webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+	border-bottom: 2px solid gold;
 	animation: mymove 5s alternate;
 	margin: 0px 50px;
 	margin-bottom: 50px;
 	font-family:Georgia;
 	letter-spacing: 1.5px;
 	font-size:16px;
-	padding:0px 40px;
+	padding:0px 25px;
+	padding-bottom:20px;
 	animation-name: example;
     animation-duration: 2s;
     animation-iteration-count: 1;
-   
+    display:none;
 }
+
+
+#box2{
+	color:white;
+	border-bottom: 2px solid gold;
+	animation: mymove 5s alternate;
+	margin: 0px 50px;
+	margin-bottom: 50px;
+	font-family:Georgia;
+	letter-spacing: 1.5px;
+	font-size:16px;
+	padding:0px 25px;
+	padding-bottom:20px;
+	animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+	display:none;
+}
+
 @keyframes example {
     0%  {opacity:0.0;}
     10% {opacity:0.1;}
@@ -101,30 +120,7 @@ body {
 	100%{opacity:1;}
 }
 
-#box2{
-	color:white;
-	border-bottom: 2px solid white;
-	-webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
-	animation: mymove 5s alternate;
-	margin: 0px 50px;
-	margin-bottom: 50px;
-	font-family:Georgia;
-	letter-spacing: 1.5px;
-	font-size:16px;
-	padding:0px 25px;
-	padding-bottom:20px;
-	animation-name: example;
-    animation-duration: 2s;
-    animation-iteration-count: 1;
-}
 
-/* Chrome, Safari, Opera */
-	@-webkit-keyframes mymove {
-    50% {border: 10px solid gold;}
-	}
-	@keyframes mymove {
-    50% {border: 10px solid gold;}
-	}
 
 
 
@@ -281,13 +277,6 @@ a.animated-button.thar-three:before {
 		
 	/*--BATAS--*/
 	
-#box1 
-{
-	display : none;
-}
-#box2 
-{
-	display : none;
-}
+
 
 
