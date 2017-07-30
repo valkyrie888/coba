@@ -1,67 +1,28 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-  <head> 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" > 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"  >
-<link rel="stylesheet" href="CSS_buatan/project1.css"  >
-<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<head>
+<style> 
+#myDIV {
+    border: 1px solid black;
+	-webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+	animation: mymove 5s infinite;
+	/* Chrome, Safari, Opera */
+	@-webkit-keyframes mymove {
+    50% {border: 15px solid lightblue;}
+	}
+	@keyframes mymove {
+    50% {border: 15px solid lightblue;}
+	}
+</style>
+</head>
+<body>
 
-  </head> 
-  
-  <body>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<footer class="mt-5">
-  
+<p>Gradually change the border property:<p>
+<div id="myDIV"><p>The border property is a shorthand property for all border properties.</p></div>
 
-  <div class="container-fluid bg-primary py-3">
-    <div class="container">
-      <div class="row py-3">
-        <div class="col-md-9">
-          <p class="text-white">Lorem ipsum.</p>
-        </div>
-        <div class="col-md-3">
-          <div class="d-inline-block">
-            <div class="bg-circle-outline d-inline-block">
-              <a href="https://www.facebook.com/" class="text-white"><i class="fa fa-2x fa-fw fa-facebook"></i>
-		</a>
-            </div>
+<p>The border property is a shorthand property for all border properties.</p>
+<p>See individual border properties to see which is <em>animatable</em>.</p>
+<p><b>Note:</b> CSS Animations do not work in Internet Explorer 9 and earlier versions.</p>
 
-            <div class="bg-circle-outline d-inline-block">
-              <a href="https://twitter.com/" class="text-white">
-                <i class="fa fa-2x fa-fw fa-twitter"></i></a>
-            </div>
-
-            <div class="bg-circle-outline d-inline-block">
-              <a href="https://www.linkedin.com/company/" class="text-white">
-                <i class="fa fa-2x fa-fw fa-linkedin"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</footer>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-  </body>
-  
-  
-  </html>
-  
+</body>
+</html>
