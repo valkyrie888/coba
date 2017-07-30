@@ -1,7 +1,11 @@
 
 function oyeng()
 {
-	document.getElementById("box1").style.display="block";
+	if (document.getElementById("box1").style.display == "block")
+	{
+	document.getElementById("box1").style.display="none";
+	}
+	else {document.getElementById("box1").style.display="block"; }
 }
 function oyeng1()
 {
@@ -10,7 +14,12 @@ function oyeng1()
 }
 function oyeng2()
 {
-	document.getElementById("box2").style.display="block";
+	
+	if (document.getElementById("box2").style.display == "block")
+	{
+	document.getElementById("box2").style.display="none";
+	}
+	else {document.getElementById("box2").style.display="block"; }
 }
 function oyeng3()
 {
