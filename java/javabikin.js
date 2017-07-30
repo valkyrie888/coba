@@ -41,3 +41,9 @@ function oyeng4()
 	document.getElementById("box3").scrollIntoView() ;
 	
 }
+
+
+function oyeng5()
+{	
+	document.getElementById("blank").scrollIntoView() ;
+}
